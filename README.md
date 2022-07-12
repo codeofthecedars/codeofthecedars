@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codeofthecedars
+- 👋 Hi, I’m @codingcomic
 - 👀 I’m interested in ... secure code and fun things to do
 - 🌱 I’m currently learning ... all the things 
 - 💞️ I’m looking to collaborate on ... building security and GRC solutions
